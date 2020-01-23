@@ -2,11 +2,11 @@
 tic80 collaborative testing
 # so
 we have 1 folder, 5 files
-collab.lua - the main script tic80 calls when the collab.tic cart is ran
-collab.tic - that cart
-collaberate.lua - the cart exported as a lua file(pro feature) might help idk
-player.lua - a simple require example to show brian how it's done
-sprites.gif - exported sprites used in the cart
+*collab.lua - the main script tic80 calls when the collab.tic cart is ran
+*collab.tic - that cart
+*collaberate.lua - the cart exported as a lua file(pro feature) might help idk
+*player.lua - a simple require example to show brian how it's done
+*sprites.gif - exported sprites used in the cart
 
 # now
 i'm not sure of other OS's but on good ol linux dropping these files into the working directory for tic80 gives us access to 
